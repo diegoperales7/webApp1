@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14-mar-2023, 15:08:45
+    Author     : Diego
+*/
+body{
+    background-color: #9DC08B;
+}
+.error{
+    color:red;
+}
+.exito{
+    color:beige;
+}
+.formLogin{
+    margin:auto;
+    background-color: #609966;
+    padding:15px;
+    border-radius: 10px;
+    margin-top:35%
+    
+    
+}
+
+.frmLogh1{
+    text-align: center;
+    color:#40513B;
+}
+
+.frmLoglabel{
+    font-weight: bold;
+    color:#EDF1D6;
+}
+
+.btnAcceso{
+    background-color: #40513B;
+    color:#EDF1D6;
+    font-weight: bold;
+}
+
+.btnAcceso:hover{
+    background-color: rgb(67, 84, 62);
+}
